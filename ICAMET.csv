@@ -1,0 +1,183 @@
+﻿ID;fecha;Hora de finalización;Correo electrónico;Nombre;Hora de la última modificación;terminal;interno;Nombre Fiscalizador Bogados;Nombre supervisor Metropol;A14;"En caso de marcar ""No"", indique el número de USB malos";A15;A16;A17;A18;En base a la pregunta N° 10 (a18) responder el o los atributos sancionados ;Realiza cualquier comentario relevante durante la inspección
+15;27-12-2024;12-27-24 15:31:27;anonymous;;;PIE ANDINO;7116;Álvaro soto;Miguel tapia;Si;;Si;Si;Si;No;"Piso;Plataforma para movilidad reducida;Grafiti;Cabina Conductor;";Suciedad interior 
+16;27-12-2024;12-27-24 15:32:45;anonymous;;;JUANITA;7015;Jaime Ortiz;Francisco Ponce;Si;;Si;Si;Si;No;"Piso;";Se debe realizar aseo de bus
+17;27-12-2024;12-27-24 15:34:02;anonymous;;;JUANITA;7010;Jaime Ortiz;Francisco Ponce;Si;;Si;Si;Si;No;"Sin sanción;";Aseo de bus en regla.
+18;27-12-2024;12-27-24 15:35:50;anonymous;;;JUANITA;7024;Jaime Ortiz ;Francisco Ponce;Si;0.1;Si;Si;Si;Si;"Piso;";Se debe realizar aseo de bus
+19;27-12-2024;12-27-24 15:37:00;anonymous;;;JUANITA;7005;Jaime Ortiz;Francisco Ponce;Si;;Si;Si;Si;No;"Piso;";Se debe realizar aseo de bus
+20;27-12-2024;12-27-24 15:38:20;anonymous;;;JUANITA;6035;Jaime Ortiz;Francisco Ponce;Si;;Si;Si;Si;No;"Piso;";Se debe realizar aseo de bus 
+21;27-12-2024;12-27-24 15:39:50;anonymous;;;JUANITA;6080;Jaime Ortiz;Francisco Ponce;Si;;Si;Si;Si;No;"Piso;";Se debe realizar aseo de bus 
+22;27-12-2024;12-27-24 15:41:28;anonymous;;;JUANITA;6043;Jaime Ortiz;Francisco Ponce;Si;;Si;Si;Si;No;"Piso;";Se debe realizar aseo de bus 
+23;30-12-2024;12-30-24 12:58:39;anonymous;;;SANTA MARTA;3096;Marco Arriagada ;Margarita Tafall;Si;;Si;Si;Si;Si;"Sin sanción;";.
+24;30-12-2024;12-30-24 13:09:35;anonymous;;;SANTA MARTA;3117;Marcos Arriagada ;Margarita Tafall;Si;;Si;Si;Si;Si;"Sin sanción;";.
+25;31-12-2024;12-31-24 9:37:44;anonymous;;;CONDELL;4005;Kevin Vallejos ;Franco Morales ;No;1;Si;Si;Si;No;"Grafiti;Piso;";Basura al interior 
+26;31-12-2024;12-31-24 9:43:31;anonymous;;;CONDELL;4019;Kevin vallejos;Boris Cáceres ;Si;;Si;Si;Si;No;"Piso;Grafiti;";Suciedad interior del bus, sin aseo 
+27;31-12-2024;12-31-24 9:45:26;anonymous;;;CONDELL;4003;Kevin vallejos ;Boris Cáceres ;Si;;Si;Si;Si;Si;"Sin sanción;";Bus en perfectas condiciones 
+28;31-12-2024;12-31-24 9:46:43;anonymous;;;CONDELL;4031;Kevin vallejos;Boris Cáceres ;Si;;Si;Si;Si;No;"Grafiti;Piso;";Bus sucio en el piso y con grafitis 
+29;31-12-2024;12-31-24 9:48:28;anonymous;;;CONDELL;4009;Kevin vallejos ;Boris Cáceres ;Si;;Si;Si;Si;No;"Piso;Grafiti;";Bus sucio interior y con grafitis 
+30;03-01-2025;1-3-25 11:18:08;anonymous;;;SANTA MARTA;2008;Álvaro Soto;Margarita Tafall ;Si;;Si;Si;Si;Si;"Sin sanción;";. 
+31;03-01-2025;1-3-25 11:20:43;anonymous;;;SANTA MARTA;2029;Álvaro Soto;Margarita Tafall;Si;;Si;Si;Si;Si;"Sin sanción;";. 
+32;03-01-2025;1-3-25 11:25:09;anonymous;;;SANTA MARTA;3054;Álvaro Soto;Margarita Tafall;Si;;Si;Si;Si;Si;"Sin sanción;";. 
+33;03-01-2025;1-3-25 11:32:35;anonymous;;;SANTA MARTA;1032;Álvaro Soto;Margarita Tafall;Si;;Si;Si;Si;No;"Piso;";.
+34;06-01-2025;1-6-25 13:07:30;anonymous;;;EL RETIRO;4046;Joseph Parra;Sebastian Castro;No;1;Si;Si;Si;No;"Grafiti;Piso;";Falta 1 usb y queda como observación el aseo interior del bus, Grafitti y suciedad en suelo
+35;06-01-2025;1-6-25 13:08:27;anonymous;;;EL RETIRO;4047;Marcos Arriagada;José Luis lagunas mendez ;Si;;No;No;No;No;"Piso;";Aseo interior 
+36;06-01-2025;1-6-25 13:10:35;anonymous;;;EL RETIRO;1003;Joseph Parra;Sebastian Castro;Si;;Si;Si;Si;Si;"Piso;";Aseo interior como observacion
+37;06-01-2025;1-6-25 13:12:39;anonymous;;;EL RETIRO;2051;Josep parra;José Luis lagunas mendez ;Si;;Si;Si;Si;No;"Piso;";Piso sucio y basura
+38;06-01-2025;1-6-25 13:13:41;anonymous;;;EL RETIRO;4052;Josep parra;José Luis lagunas mendez ;Si;;Si;Si;Si;No;"Piso;";Piso sucio y basura 
+39;07-01-2025;1-7-25 14:59:45;anonymous;;;CONDELL;4041;Sergio ;Franco Morales ;No;1;Si;Si;Si;No;"Sin sanción;";Bus llegó con papeles al interior 
+40;07-01-2025;1-7-25 15:02:10;anonymous;;;CONDELL;4002;Sergio;Franco Morales ;Si;;Si;Si;Si;No;"Sin sanción;";Bus llega con cenizas de cigarro 
+41;07-01-2025;1-7-25 15:02:19;anonymous;;;CONDELL;4009;Nicolas Lemus;Franco Morales;Si;;Si;Si;Si;Si;"Sin sanción;";Inspección superficial por parte de bogados
+42;07-01-2025;1-7-25 15:03:34;anonymous;;;CONDELL;4021;Sergio;Franco Morales ;Si;;Si;Si;Si;Si;"Sin sanción;";Sin problemas 
+43;07-01-2025;1-7-25 15:10:41;anonymous;;;CONDELL;4003;Nicolas Lemus;Franco Morales;No;8;Si;Si;No;Si;"Sin sanción;";Solo se comenta sobre los puertos usb
+44;08-01-2025;1-8-25 12:52:51;anonymous;;;SANTA MARGARITA;4044;Jaime orriz;Rafael cacers;Si;;Si;Si;Si;Si;"Sin sanción;";Ninguna
+45;08-01-2025;1-8-25 13:04:08;anonymous;;;SANTA MARGARITA;4040;Nicolas suñiga;Rafael caceres;Si;;Si;Si;Si;Si;"Sin sanción;";Ningun
+46;08-01-2025;1-8-25 13:16:26;anonymous;;;SANTA MARGARITA;4059;Nicolas suñiga;Rafael caceres ;Si;;Si;Si;Si;No;"Grafiti;";"Sanjona con grasa
+Marcos de ventana"
+47;08-01-2025;1-8-25 13:18:48;anonymous;;;SANTA MARGARITA;4069;Jaime ortiz;Rafael caceres ;Si;;Si;Si;Si;No;"Grafiti;";Sanjona con grasa
+48;08-01-2025;1-8-25 14:19:37;anonymous;;;AGUIRRE LUCO;6155;Marco;Aldo;Si;;Si;Si;Si;Si;"Sin sanción;";Ninguna 
+49;08-01-2025;1-8-25 14:36:11;anonymous;;;AGUIRRE LUCO;6007;Marco arriagada;Aldo benni;No;;Si;Si;Si;No;"Grafiti;Piso;";El aseo y grafiti
+50;08-01-2025;1-8-25 14:39:40;anonymous;;;AGUIRRE LUCO;5003;Marco Arriagada;Aldo benni;Si;;Si;Si;Si;No;"Piso;";Solo piso sucio
+51;08-01-2025;1-8-25 14:44:44;anonymous;;;AGUIRRE LUCO;6112;Marco arriagada;Aldo benni;Si;;Si;Si;Si;No;"Piso;Cabina Conductor;";Aseo interior
+52;09-01-2025;1-9-25 12:36:01;anonymous;;;SANTA MARTA;3102;Sergio Ancán ;Sergio Ancán;Si;;Si;Si;Si;No;"Piso;";.
+53;09-01-2025;1-9-25 12:37:02;anonymous;;;SANTA MARTA;3073;Sergio Ancan;Margarita Tafall;Si;;Si;Si;Si;Si;"Sin sanción;";.
+54;09-01-2025;1-9-25 12:38:08;anonymous;;;SANTA MARTA;3055;Sergio Ancan;Margarita Tafall;Si;;Si;Si;Si;No;"Piso;";.
+55;09-01-2025;1-9-25 12:39:04;anonymous;;;SANTA MARTA;3063;Sergio Ancan;Margarita Tafall;Si;;Si;Si;Si;No;"Piso;";.
+56;09-01-2025;1-9-25 12:39:36;anonymous;;;SANTA MARTA;3082;Sergio Ancan;Margarita Tafall;Si;;Si;Si;Si;Si;"Sin sanción;";.
+57;09-01-2025;1-9-25 14:32:26;anonymous;;;JUANITA;7007;Josep parra;Francisco ponce;Si;;Si;Si;Si;No;"Piso;";Piso sucio y basura
+58;09-01-2025;1-9-25 14:34:31;anonymous;;;JUANITA;7129;Marco arriagada;Francisco ponce;Si;;Si;Si;Si;No;"Piso;Cabina Conductor;";Piso sucio grafitic
+59;09-01-2025;1-9-25 14:36:06;anonymous;;;JUANITA;6076;Marco arriagada ;Francisco ponce ;Si;;Si;Si;Si;No;"Piso;";Piso cucio
+60;09-01-2025;1-9-25 14:37:40;anonymous;;;JUANITA;6038;Josep parra;Francisco ponce ;Si;;Si;Si;Si;No;"Piso;";Piso sucio 
+61;13-01-2025;1-13-25 10:07:43;anonymous;;;EL RETIRO;4062;Kevin Vallejos ;José lagunas;Si;5;Si;Si;No;No;"Piso;";Aseo interior 
+62;13-01-2025;1-13-25 10:10:01;anonymous;;;EL RETIRO;1008;Alvaro soto;José lagunas ;Si;5;Si;Si;Si;No;"Cabina Conductor;Piso;";Aseo interior 
+63;13-01-2025;1-13-25 10:12:21;anonymous;;;EL RETIRO;4058;Kevin Vallejos ;José lagunas ;Si;4;Si;Si;Si;No;"Cabina Conductor;Grafiti;Paredes;Piso;";Aseo interior 
+64;13-01-2025;1-13-25 10:14:04;anonymous;;;EL RETIRO;4029;Alvaro soto;José lagunas;Si;5;Si;Si;Si;No;"Cabina Conductor;Piso;Grafiti;Vidrios;Paredes;";Aseo interior y stickers 
+65;13-01-2025;1-13-25 10:15:15;anonymous;;;EL RETIRO;4027;Alvaro soto;José lagunas;Si;7;Si;Si;Si;No;"Piso;Cabina Conductor;Paredes;";Aseo interior 
+66;14-01-2025;1-14-25 14:13:55;anonymous;;;JUANITA;7175;Álvaro Vázquez ;Francisco Ponce ;Si;;Si;Si;Si;No;"Piso;";Limpieza 
+67;15-01-2025;1-15-25 10:36:20;anonymous;;;EL RETIRO;2073;Josep parra;José lagunas ;No;3;Si;Si;No;No;"Piso;Grafiti;";Aseo interior, grafitis
+68;15-01-2025;1-15-25 10:39:17;anonymous;;;EL RETIRO;4064;Josep parra ;José lagunas ;No;1;Si;Si;Si;No;"Piso;";Piso sucio
+69;15-01-2025;1-15-25 10:40:44;anonymous;;;EL RETIRO;4026;Jaime Ortiz ;José lagunas ;Si;;Si;Si;No;No;"Piso;";Basura interior 
+70;15-01-2025;1-15-25 10:43:55;anonymous;;;EL RETIRO;2052;Josep parra;José lagunas ;Si;;Si;Si;Si;No;"Piso;Grafiti;";Basura interior, vidrios 
+71;15-01-2025;1-15-25 10:45:49;anonymous;;;EL RETIRO;1015;Josep parra ;José lagunas ;Si;;Si;Si;No;No;"Piso;";Aseo interior 
+72;15-01-2025;1-15-25 13:45:42;anonymous;;;AGUIRRE LUCO;6116;Octavio vera;Richard gonzalez;No;1;Si;Si;Si;No;"Piso;Plataforma para movilidad reducida;Pasa manos;";No
+73;15-01-2025;1-15-25 13:48:05;anonymous;;;AGUIRRE LUCO;5002;Octavio vera;Richard gonzalez;No;1;Si;Si;Si;No;"Piso;Plataforma para movilidad reducida;Grafiti;";No
+74;15-01-2025;1-15-25 13:50:38;anonymous;;;AGUIRRE LUCO;6128;Octavio vera;Richard gonzalez;Si;2;Si;Si;Si;No;"Piso;Pasa manos;Plataforma para movilidad reducida;Grafiti;";No
+75;15-01-2025;1-15-25 13:52:26;anonymous;;;AGUIRRE LUCO;6115;Octavio vera;Ricjatd gonzalez;No;2;Si;Si;Si;No;"Piso;Plataforma para movilidad reducida;";No
+76;15-01-2025;1-15-25 13:54:10;anonymous;;;AGUIRRE LUCO;6005;Octavio vera;Richard gonzalez;Si;;Si;No;Si;No;"Piso;Plataforma para movilidad reducida;Grafiti;";No
+77;16-01-2025;1-16-25 10:47:45;anonymous;;;SANTA MARGARITA;2043;Álvaro soto;Jorge Albetman;Si;;Si;Si;Si;Si;"Grafiti;";Se recalca trapear maquina
+78;16-01-2025;1-16-25 10:50:47;anonymous;;;SANTA MARGARITA;4050;Kevin vallejos;Jorge abetman;No;10;Si;Si;Si;No;"Piso;";Se recalca aseo en maquina
+79;16-01-2025;1-16-25 10:53:07;anonymous;;;SANTA MARGARITA;4060;Álvaro soto;Jorge Albetman ;No;10;Si;Si;Si;No;"Piso;Grafiti;Pasa manos;Paredes;";Se recalca aseo profundo 
+80;16-01-2025;1-16-25 10:55:49;anonymous;;;SANTA MARGARITA;2043;Kevin vallejos;Jorge Albetman ;Si;;Si;Si;Si;No;"Piso;Pasa manos;Paredes;";Se recalca aseo de general 
+81;16-01-2025;1-16-25 11:01:18;anonymous;;;SANTA MARGARITA;2074;Kevin vallejos;Jorge Albetman ;Si;;Si;Si;Si;Si;"Grafiti;Vidrios;Paredes;";Máquina limpia, se recalca grafitis en cielo, paredes y asientos
+82;16-01-2025;1-16-25 11:07:29;anonymous;;;SANTA MARGARITA;4038;Kevin Vallejos ;Jorge Albetman ;No;10;Si;Si;Si;No;"Piso;Paredes;Grafiti;";Máquina con basura en su interior, grafitis en interior 
+83;16-01-2025;1-16-25 11:10:51;anonymous;;;SANTA MARGARITA;2066;Alvaro soto;Jorge Albetman ;Si;;Si;Si;Si;No;"Piso;";Se recalca interior con basura 
+84;16-01-2025;1-16-25 11:12:37;anonymous;;;SANTA MARGARITA;2079;Álvaro soto;Jorge Albetman ;Si;;Si;Si;Si;No;"Grafiti;Piso;Paredes;";Se recalca basura, piso con líquidos, stickers
+85;16-01-2025;1-16-25 13:53:35;anonymous;;;JUANITA;6086;Joseph;Francisco ;No;;Si;Si;Si;No;"Grafiti;";Piso sucio, basura 
+86;16-01-2025;1-16-25 13:54:58;anonymous;;;JUANITA;6059;Joseph;Francisco ;No;;Si;Si;No;No;"Grafiti;";Grafiti, 
+87;16-01-2025;1-16-25 13:57:50;anonymous;;;JUANITA;6079;Jaime Ortiz ;Francisco ;No;;Si;Si;No;No;"Grafiti;";Grafiti en paredes
+88;16-01-2025;1-16-25 13:59:00;anonymous;;;JUANITA;7128;Jaime ortiz;Francisco ;Si;;Si;Si;Si;Si;"Grafiti;";Basura en el interior
+89;16-01-2025;1-16-25 14:00:49;anonymous;;;JUANITA;7155;Jaime Ortiz ;Francisco ;Si;;Si;Si;Si;Si;"Aprobados;";Bus sucio 
+90;17-01-2025;1-17-25 11:23:56;anonymous;;;SANTA MARTA;3095;Bogado;Francisco meza ;Si;;Si;Si;Si;Si;"Aprobados;";Sin observaciones 
+91;17-01-2025;1-17-25 11:24:54;anonymous;;;SANTA MARTA;1031;Bogados;Bogados;Si;;Si;Si;Si;Si;"Aprobados;";Sin observaciones 
+92;21-01-2025;1-21-25 9:54:21;anonymous;;;SANTA MARTA;1036;Bogados;Francisco meza ;No;2;Si;Si;Si;No;"Piso;";Papeles en interior
+93;21-01-2025;1-21-25 9:55:12;anonymous;;;SANTA MARTA;1006;Bogados;Francisco meza ;No;3;Si;Si;Si;No;"Piso;";Papeles en interior 
+94;21-01-2025;1-21-25 9:56:05;anonymous;;;SANTA MARTA;3126;Bogados;Francisco meza ;Si;;Si;Si;Si;No;"Piso;";Papeles en interior 
+95;21-01-2025;1-21-25 9:57:36;anonymous;;;SANTA MARTA;1014;Bogado ;Francisco meza ;No;1;Si;Si;Si;No;"Piso;";Papeles en interior 
+96;21-01-2025;1-21-25 9:58:24;anonymous;;;SANTA MARTA;1016;Bogados;Francisco meza ;No;3;Si;Si;Si;No;"Piso;";Papeles en interior 
+97;21-01-2025;1-21-25 12:48:21;anonymous;;;CONDELL;3038;Álvaro Vasquez ;Sergio Gómez ;Si;;Si;Si;Si;No;"Piso;Plataforma para movilidad reducida;Pasa manos;Cabina Conductor;";Aseo bus ingresando de ruta
+98;21-01-2025;1-21-25 12:52:22;anonymous;;;CONDELL;3034;Alvaro Vasquez ;Franco Morales ;Si;;Si;Si;Si;No;"Piso;";Suciedad en rincones 
+99;21-01-2025;1-21-25 12:52:23;anonymous;;;CONDELL;3042;Marco Arriagada ;Sergio Gómez ;Si;;Si;Si;Si;No;"Piso;";Poso sucio con basura
+100;21-01-2025;1-21-25 12:53:33;anonymous;;;CONDELL;3035;Marco Arriagada ;Sergio Gómez ;Si;;Si;Si;Si;No;"Piso;";Piso sucio con basura
+101;21-01-2025;1-21-25 12:55:03;anonymous;;;CONDELL;3040;Alvaro Vasquez ;Franco Morales ;Si;;Si;Si;Si;No;"Piso;";Suciedad en rincones y bajo asientos 
+102;21-01-2025;1-21-25 12:55:47;anonymous;;;CONDELL;3001;Marco Arriagada ;Sergio Gómez ;Si;;Si;Si;Si;No;"Piso;";Poso sucio con basura
+103;21-01-2025;1-21-25 17:18:52;anonymous;;;JUANITA;7177;Victor ;Carlos oyarce ;Si;;Si;Si;Si;No;"Piso;";Se debe limpiar bus
+104;21-01-2025;1-21-25 17:20:42;anonymous;;;JUANITA;7122;Victor;Carlos oyarce ;Si;;Si;Si;Si;No;"Piso;";Se debe limpiar bus
+105;21-01-2025;1-21-25 17:21:18;anonymous;;;JUANITA;7040;Victor;Carlos oyarce ;Si;;Si;Si;Si;No;"Piso;";Se debe limpiar bus
+106;21-01-2025;1-21-25 17:21:50;anonymous;;;JUANITA;7158;Victor;Carlos oyarce ;Si;;Si;Si;Si;No;"Piso;";Se debe limpiar bus
+107;21-01-2025;1-21-25 17:22:36;anonymous;;;JUANITA;6033;Victor;Carlos oyarce ;Si;;Si;Si;Si;No;"Piso;";Se debe limpiar bus
+108;23-01-2025;1-23-25 14:44:15;anonymous;;;JUANITA;7164;Marco arriagada;Francisco ponce;Si;;Si;Si;Si;No;"Cabina Conductor;";Piso y cabina sicia
+109;23-01-2025;1-23-25 14:49:59;anonymous;;;JUANITA;7004;Marco arriagada;Francisco ponce ;Si;;Si;Si;Si;No;"Piso;";Piso sucio
+110;23-01-2025;1-23-25 14:51:44;anonymous;;;JUANITA;7006;Marco arriagada;Francisco ponce ;Si;;Si;Si;Si;No;"Piso;";Piso sucio
+111;23-01-2025;1-23-25 14:53:48;anonymous;;;JUANITA;7020;Marco arriagada ;Francisco ponce ;Si;;No;Si;Si;No;"Aprobados;";Falta letrero frontal 
+112;23-01-2025;1-23-25 14:56:12;anonymous;;;JUANITA;7161;Marco arriagada ;Francisco ponce ;Si;;Si;Si;Si;Si;"Piso;";Piso sucio 
+113;24-01-2025;1-24-25 14:19:59;anonymous;;;PIE ANDINO;5007;Sin información ;Felipe Cabezas ;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+114;24-01-2025;1-24-25 14:20:42;anonymous;;;PIE ANDINO;5010;Sin información ;Felipe Cabezas ;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+115;24-01-2025;1-24-25 14:21:31;anonymous;;;PIE ANDINO;5015;Sin información ;Felipe Cabezas ;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+116;24-01-2025;1-24-25 14:22:02;anonymous;;;PIE ANDINO;7114;Sin información ;Felipe Cabezas ;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+117;24-01-2025;1-24-25 14:22:36;anonymous;;;PIE ANDINO;7115;Sin información ;Felipe Cabezas ;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+118;27-01-2025;1-27-25 12:23:23;anonymous;;;SANTA MARGARITA;4036;Josep parra;Rafael caceres;No;3;Si;Si;Si;Si;"Aprobados;";Ok
+119;27-01-2025;1-27-25 12:28:01;anonymous;;;SANTA MARGARITA;4033;Josep Parra;Rafael caceres;No;5;Si;Si;Si;No;"Aprobados;";Sanjona sucia
+120;27-01-2025;1-27-25 12:30:23;anonymous;;;SANTA MARGARITA;2046;Jaiime ortiz;Rafael caceres ;Si;;Si;Si;No;Si;"Aprobados;";Ok
+121;27-01-2025;1-27-25 12:32:10;anonymous;;;SANTA MARGARITA;4058;Josep parra;Rafael caceres;No;6;Si;Si;Si;Si;"Aprobados;";Ok
+122;27-01-2025;1-27-25 17:08:04;anonymous;;;PIE ANDINO;5009;Sergio Ancan;Felipe Cabezas ;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+123;27-01-2025;1-27-25 17:09:17;anonymous;;;PIE ANDINO;5011;Sergio Ancan;Felipe Cabezas ;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+124;27-01-2025;1-27-25 17:09:56;anonymous;;;PIE ANDINO;5012;Sergio Ancan;Felipe Cabezas ;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+125;27-01-2025;1-27-25 17:10:40;anonymous;;;PIE ANDINO;5017;Sergio Ancan ;Felipe Cabezas ;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+126;27-01-2025;1-27-25 17:11:30;anonymous;;;PIE ANDINO;7043;Sergio Ancan;Felipe Cabezas ;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+127;28-01-2025;1-28-25 12:56:25;anonymous;;;AGUIRRE LUCO;6116;Marco Arriagada;Richard Gonzalez;Si;;Si;Si;Si;Si;"Aprobados;";Queda aprobado
+128;28-01-2025;1-28-25 19:16:47;anonymous;;;AGUIRRE LUCO;6000;Marco Arriagada;Richard Gonzalez;Si;;Si;Si;Si;Si;"Aprobados;";Aprobado
+129;28-01-2025;1-28-25 19:21:17;anonymous;;;AGUIRRE LUCO;6004;Marco Arriagada;Richsrd gonzalez;Si;;Si;Si;Si;Si;"Aprobados;";Aprobado
+130;28-01-2025;1-28-25 19:31:17;anonymous;;;AGUIRRE LUCO;6018;Marco arriagada;Richard gonzalez;Si;;Si;Si;Si;Si;"Aprobados;";Aprobadod
+131;28-01-2025;1-28-25 19:34:57;anonymous;;;AGUIRRE LUCO;6139;Marco Arriagada;Richarf Gonzalez;No;2;Si;Si;Si;No;"Piso;Plataforma para movilidad reducida;Grafiti;";"Rechazado por USB
+Y suciedad"
+132;30-01-2025;1-30-25 14:46:31;anonymous;;;JUANITA;6075;Jaime ortiz ;Carlos oyarce ;Si;;Si;Si;Si;No;"Piso;";Realizar aseo de bus
+133;30-01-2025;1-30-25 14:47:21;anonymous;;;JUANITA;6080;Jaime ortiz ;Carlos oyarce ;Si;;Si;Si;Si;Si;"Aprobados;";Sin detalles
+134;30-01-2025;1-30-25 14:48:00;anonymous;;;JUANITA;7159;Jaime ortiz ;Carlos oyarce ;Si;;Si;Si;Si;Si;"Piso;";Realizar aseo de bus
+135;30-01-2025;1-30-25 14:48:56;anonymous;;;JUANITA;7007;Jaime ortiz ;Carlos oyarce ;No;1;Si;Si;Si;No;"Piso;";Realizar aseo piso
+136;30-01-2025;1-30-25 14:49:36;anonymous;;;JUANITA;6057;Jaime ortiz ;Carlos oyarce ;Si;;Si;Si;Si;No;"Piso;";Se debe realizar aseo de bus 
+137;04-02-2025;2-4-25 14:50:54;anonymous;;;EL RETIRO;1005;Alvaro soto ;José lagunas ;Si;;Si;Si;Si;Si;"Aprobados;";Máquina en buenas condiciones 
+138;04-02-2025;2-4-25 14:54:54;anonymous;;;EL RETIRO;2075;Alvaro soto ;José lagunas ;Si;;Si;Si;Si;Si;"Aprobados;";Bus en buenas condiciones 
+139;04-02-2025;2-4-25 14:57:51;anonymous;;;EL RETIRO;4035;Alvaro soto ;José lagunas ;Si;;Si;Si;Si;Si;"Aprobados;";Bus en buenas condiciones 
+140;04-02-2025;2-4-25 15:03:11;anonymous;;;EL RETIRO;2069;Alvaro soto;José lagunas ;Si;;No;No;No;Si;"Aprobados;";Ruteros no enlazan 
+141;04-02-2025;2-4-25 15:04:27;anonymous;;;EL RETIRO;4052;Alvaro soto ;José lagunas ;Si;;Si;Si;Si;Si;"Aprobados;";Máquina en buenas condiciones 
+142;05-02-2025;2-5-25 10:42:20;anonymous;;;CONDELL;3076;Álvaro Vasquez ;Sergio Gómez ;Si;;Si;Si;Si;No;"Piso;";Piso sucio con polvo,sin mosquetones 
+143;05-02-2025;2-5-25 10:46:10;anonymous;;;CONDELL;3075;Álvaro Vasquez ;Sergio Gómez ;Si;;Si;Si;Si;Si;"Aprobados;";Sin mosquetones minusválidos 
+144;05-02-2025;2-5-25 10:51:45;anonymous;;;CONDELL;3072;Álvaro Vasquez ;Sergio Gómez ;Si;;Si;Si;Si;Si;"Aprobados;";Al revisar bus,operadora se encuentra fumando al interior del bus 
+145;05-02-2025;2-5-25 10:58:54;anonymous;;;CONDELL;3011;Álvaro Vasquez ;Sergio Gómez ;Si;;Si;Si;Si;No;"Piso;Plataforma para movilidad reducida;Pasa manos;Espejos / Puertas;";Sin mosquetones 
+146;05-02-2025;2-5-25 11:01:27;anonymous;;;CONDELL;3014;Álvaro ;Sergio Gómez ;Si;;Si;Si;Si;Si;"Aprobados;";Sin mosquetones 
+147;10-02-2025;2-10-25 17:17:46;anonymous;;;AGUIRRE LUCO;6132;Octavio Vera;Richard gonzalez;No;2;Si;Si;Si;No;"Cabina Conductor;";Asiento sucio
+148;10-02-2025;2-10-25 17:21:48;anonymous;;;AGUIRRE LUCO;5023;Octavio vera;Richard Gonzalez;No;1;Si;Si;Si;Si;"Grafiti;";Solo grafitis
+149;10-02-2025;2-10-25 17:23:30;anonymous;;;AGUIRRE LUCO;6104;Octavio vera;Richard Gonzalez;No;2;Si;Si;Si;Si;"Grafiti;";Solo grafitis
+150;10-02-2025;2-10-25 17:25:25;anonymous;;;AGUIRRE LUCO;6141;Octavio vera;Richard gonzalez;No;3;Si;Si;Si;No;"Piso;Grafiti;";Basura en piso
+151;10-02-2025;2-10-25 17:27:15;anonymous;;;AGUIRRE LUCO;6108;Octavio vera;Richard gonzale;No;;Si;Si;Si;Si;"Aprobados;";Bus limpio
+152;11-02-2025;2-11-25 13:17:42;anonymous;;;SANTA MARTA;1016;Octavio Vera ;Margarita Tafall ;No;1;Si;No;Si;No;"Piso;";.
+153;11-02-2025;2-11-25 13:26:49;anonymous;;;SANTA MARTA;1035;Octavio Vera ;Margarita Tafall;No;;Si;Si;Si;No;"Piso;";. 
+154;11-02-2025;2-11-25 13:33:48;anonymous;;;SANTA MARTA;1014;Octavio Vera ;Margarita Tafall;No;;Si;Si;Si;No;"Grafiti;";.
+155;11-02-2025;2-11-25 13:39:15;anonymous;;;SANTA MARTA;1025;Octavio Vera ;Margarita Tafall;No;;Si;Si;No;No;"Piso;";.
+156;11-02-2025;2-11-25 13:45:14;anonymous;;;SANTA MARTA;2000;Octavio Vera;Margarita Tafall;Si;;Si;Si;Si;No;"Piso;";.
+157;13-02-2025;2-13-25 10:08:22;anonymous;;;CONDELL;3134;Octavio vera;Sergio Gómez ;Si;;Si;Si;Si;No;"Piso;";Bus sucio 
+158;13-02-2025;2-13-25 10:17:09;anonymous;;;CONDELL;3026;Octavio vera ;Sergio Gómez ;Si;;Si;Si;Si;Si;"Cabina Conductor;Piso;Plataforma para movilidad reducida;Pasa manos;Paredes;Espejos / Puertas;";Bus muy sucio 
+159;13-02-2025;2-13-25 10:21:08;anonymous;;;CONDELL;3136;Octavio vera ;Sergio Gómez ;Si;;Si;Si;Si;Si;"Aprobados;";Sin observación 
+160;13-02-2025;2-13-25 10:26:05;anonymous;;;CONDELL;3066;Octavio vera ;Sergio Gómez ;No;1;Si;Si;Si;No;"Cabina Conductor;Piso;Pasa manos;Plataforma para movilidad reducida;";Suciedad interior
+161;13-02-2025;2-13-25 10:36:11;anonymous;;;CONDELL;3133;Octavio vera ;Sergio Gómez ;Si;;Si;Si;Si;Si;"Cabina Conductor;Piso;Plataforma para movilidad reducida;";Suciedad y basura
+162;17-02-2025;2-17-25 11:41:55;anonymous;;;AGUIRRE LUCO;6120;alvaro diaz;richard gonzalez;Si;;Si;Si;Si;No;"Piso;";bus piso con suciedad
+163;17-02-2025;2-17-25 11:43:19;anonymous;;;AGUIRRE LUCO;6122;ALVARO DIAZ;RICHARD GONZALES;Si;;Si;Si;Si;No;"Piso;";PISO CON SUCIEDAD
+164;17-02-2025;2-17-25 11:45:01;anonymous;;;AGUIRRE LUCO;6156;ALVARO DIAZ;RICHARD GONZALEZ;Si;;Si;Si;Si;No;"Piso;";PISO CON SUCIEDAD
+165;17-02-2025;2-17-25 11:46:25;anonymous;;;AGUIRRE LUCO;6093;ALVARO DIAZ;RICHARD GONZALEZ;Si;;Si;Si;Si;No;"Piso;";PISO CON SUCIEDAD
+166;17-02-2025;2-17-25 11:47:38;anonymous;;;AGUIRRE LUCO;6134;ALVARO DIAZ;RICHARD GONZALEZ;Si;;Si;Si;Si;No;"Piso;";PISO CON SUCIEDAD
+167;17-02-2025;2-17-25 11:48:54;anonymous;;;AGUIRRE LUCO;6114;ALVARO DIAZ;RICHARD GONZALEZ;Si;;Si;Si;Si;No;"Piso;";BUS CON PISO SUCIO
+168;17-02-2025;2-17-25 11:53:07;anonymous;;;SANTA MARGARITA;4026;Joseph parra;Rafael caceres;Si;;Si;Si;No;Si;"Aprobados;";Revisar ratero trasero
+169;17-02-2025;2-17-25 11:56:42;anonymous;;;SANTA MARGARITA;4059;Alvaro vasquez;Rafael caceres ;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+170;17-02-2025;2-17-25 11:57:56;anonymous;;;SANTA MARGARITA;4069;Joseph parra;Rafael caceres;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+171;17-02-2025;2-17-25 12:02:20;anonymous;;;SANTA MARGARITA;4033;Joseph parra;Rafael caceres;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+172;17-02-2025;2-17-25 12:04:58;anonymous;;;SANTA MARGARITA;4027;Alvaro vasquez;Rafael caceres8;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+173;19-02-2025;2-19-25 12:30:41;anonymous;;;SANTA MARTA;1027;Octavio Vera ;Margarita Tafall;No;;Si;Si;Si;No;"Grafiti;";.
+174;19-02-2025;2-19-25 12:39:00;anonymous;;;SANTA MARTA;1032;Octavio Vera ;Margarita Tafall;No;;Si;Si;No;Si;"Aprobados;";.
+175;19-02-2025;2-19-25 12:42:56;anonymous;;;SANTA MARTA;2008;Octavio Vera ;Margarita Tafall;Si;;Si;Si;Si;Si;"Aprobados;";.
+176;19-02-2025;2-19-25 12:53:59;anonymous;;;SANTA MARTA;1017;Octavio Vera;Margarita Tafall;No;;Si;No;Si;Si;"Aprobados;";. 
+177;19-02-2025;2-19-25 13:01:35;anonymous;;;SANTA MARTA;1007;Octavio Vera;Margarita Tafall;No;;Si;Si;No;No;"Grafiti;";.
+178;21-02-2025;2-21-25 15:52:32;anonymous;;;SANTA MARGARITA;2071;Alvaro vasquez;Rafael caceres ;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+179;21-02-2025;2-21-25 16:01:52;anonymous;;;SANTA MARGARITA;2045;Alvaro vasquez;Rafael caceres ;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+180;21-02-2025;2-21-25 16:05:22;anonymous;;;SANTA MARGARITA;2059;Alvaro vasquez;Rafael caceres ;Si;;Si;Si;Si;Si;"Aprobados;";Ok
+181;27-02-2025;2-27-25 12:27:47;anonymous;;;SANTA MARTA;3085;Sergio Ancán ;Margarita Tafall;Si;;Si;Si;Si;Si;"Aprobados;";. 
+182;27-02-2025;2-27-25 12:33:07;anonymous;;;SANTA MARTA;3056;Sergio Ancán ;Margarita Tafall;Si;;Si;Si;Si;No;"Piso;";. 
+183;27-02-2025;2-27-25 12:35:39;anonymous;;;SANTA MARTA;3054;Sergio Ancán ;Margarita Tafall;Si;;Si;Si;Si;Si;"Aprobados;";.
+184;27-02-2025;2-27-25 12:41:19;anonymous;;;SANTA MARTA;3129;Sergio Ancán;Margarita Tafall;Si;;No;Si;Si;Si;"Aprobados;";.
+185;27-02-2025;2-27-25 12:48:08;anonymous;;;SANTA MARTA;3083;Sergio Ancán  ;Margarita Tafall;Si;;Si;Si;Si;No;"Piso;";.
+186;27-02-2025;2-27-25 12:48:54;anonymous;;;SANTA MARTA;3057;Sergio Ancán ;Margarita Tafall;Si;;Si;Si;Si;No;"Piso;";.
+187;27-02-2025;2-27-25 12:49:36;anonymous;;;SANTA MARTA;3123;Sergio Ancán ;Margarita Tafall;Si;;Si;Si;Si;No;"Piso;";.
+188;27-02-2025;2-27-25 12:50:32;anonymous;;;SANTA MARTA;3114;Sergio Ancán;Margarita Tafall;Si;;Si;Si;Si;No;"Piso;";.
+189;28-02-2025;2-28-25 9:30:40;anonymous;;;CONDELL;4042;Sergio ancan;Boris Cáceres ;No;1;Si;Si;Si;No;"Piso;";Basura en la parte trasera del bus 
+190;28-02-2025;2-28-25 9:36:12;anonymous;;;CONDELL;4013;Sergio ancan ;Boris Cáceres ;Si;;No;No;No;Si;"Aprobados;";Ruteros no encienden 
+191;28-02-2025;2-28-25 9:44:35;anonymous;;;CONDELL;3049;Jaime ortis;Boris Cáceres ;Si;;Si;Si;Si;No;"Piso;";Suciedad interior del bus
+192;28-02-2025;2-28-25 9:45:46;anonymous;;;CONDELL;3133;Jaime ortis;Boris Cáceres ;Si;;Si;Si;Si;Si;"Aprobados;";Sin detalles 
+193;28-02-2025;2-28-25 9:46:46;anonymous;;;CONDELL;4066;Sergio ancan;Boris Cáceres ;Si;;Si;Si;No;No;"Piso;";Sucio interior 
+194;28-02-2025;2-28-25 9:47:50;anonymous;;;CONDELL;4010;Jaime ortis ;Boris Cáceres ;Si;;Si;Si;Si;No;"Piso;";Sanfona sucia 
